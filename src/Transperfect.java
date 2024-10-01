@@ -141,8 +141,6 @@ public class Transperfect extends BaseDriver {
         }
 
         //Close the browser
-        driver.close();
-
         driver.quit();
     }
 }
