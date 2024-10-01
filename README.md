@@ -2,14 +2,6 @@
 
 This repository contains an automation test for the [Transperfect website](https://www.transperfect.com/).
 
-## Task Description
-
-The task automates a series of steps on the Transperfect website, including:
-- Navigating through different sections
-- Filling forms with random data
-- Taking screenshots
-- Changing the site language
-- Opening a new tab for the "Solutions (Soluzioni)" page
 
 ## Technologies Used
 
